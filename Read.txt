@@ -1,0 +1,5 @@
+-- Cweper --
+
+® 2024
+
+You may have to install Java from https://java.com/ to run the updater. Before running START.bat .
